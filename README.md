@@ -33,12 +33,13 @@ A cross-platform mobile application demonstrating state management approach with
 
 ## Screenshots:
 - [Home](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/home.jpg)        
-- [Bookmark](FilmFav/f11/screenshot/bookmark.jpg)
-- [Bookmark details](FilmFav/f11/screenshot/bookmarkdetails.jpg)       
-- [Loading home](FilmFav/f11/screenshot/loadingHome.jpg)
-- [Movie Details](FilmFav/f11/screenshot/movieDetails.jpg)       
-- [Search](FilmFav/f11/screenshot/search.jpg)
-- [Search details](FilmFav/f11/screenshot/searchDetails.jpg)
+- [Intro login](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introLogin.jpg)
+- [First intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen1.jpg)       
+- [Second intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen2.jpg)
+- [Third intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen3.jpg)       
+- [Fourth intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen4.jpg)
+- [Login](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/login.jpg)
+- [OTP](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/otpView.jpg)
  
 ## Setup Instructions:
 1. Clone the repository.
