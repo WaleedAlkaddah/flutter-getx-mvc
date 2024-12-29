@@ -1,4 +1,4 @@
-# Flutter App (Two Approaches)
+# Flutter App
 
 A cross-platform mobile application demonstrating state management approach with GetX.
 
@@ -15,7 +15,7 @@ A cross-platform mobile application demonstrating state management approach with
 - GetX
 
 ## Screenshots:
-- [Home](Flutter%20(Getx)%20(MVC)/my_projects_getx/screenshot/home.jpg)        
+- [Home](Flutter%20(Getx)%20(MVC)/screenshot/home.jpg)        
 - [Bookmark](FilmFav/f11/screenshot/bookmark.jpg)
 - [Bookmark details](FilmFav/f11/screenshot/bookmarkdetails.jpg)       
 - [Loading home](FilmFav/f11/screenshot/loadingHome.jpg)
