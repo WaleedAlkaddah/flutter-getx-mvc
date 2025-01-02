@@ -17,9 +17,9 @@ A cross-platform mobile application demonstrating state management approach with
 ## Screenshots:
 - [Home](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/home.jpg)        
 - [Intro login](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introLogin.jpg)
-- [First intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen1.jpg)       
+- [First intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen1.jpg)    
 - [Second intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen2.jpg)
-- [Third intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen3.jpg)       
+- [Third intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen3.jpg)    
 - [Fourth intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen4.jpg)
 - [Login](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/login.jpg)
 - [OTP](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/otpView.jpg)
@@ -28,9 +28,3 @@ A cross-platform mobile application demonstrating state management approach with
 1. Clone the repository.
 2. Run `flutter pub get` to fetch dependencies.
 3. Run the app on your emulator or device.
-
-## Setup Instructions:
-1. Clone the repository.
-2. Run `flutter pub get` to fetch dependencies.
-3. Run the app on your emulator or device.
-
