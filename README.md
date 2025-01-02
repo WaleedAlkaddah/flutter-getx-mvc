@@ -15,23 +15,6 @@ A cross-platform mobile application demonstrating state management approach with
 - GetX
 
 ## Screenshots:
-# Flutter App (Two Approaches)
-
-A cross-platform mobile application demonstrating state management approach with GetX.
-
-## Features:
-- API interceptor for efficient HTTP request management.
-- Responsive design using `flutter_screenutil`.
-- Local storage integration with `shared_preferences`.
-- User authentication via phone number and code verification.
-- Four introduction screens to enhance user experience.
-
-## Technologies:
-- Flutter, Dart
-- Dio, Shared Preferences, flutter_screenutil
-- GetX
-
-## Screenshots:
 - [Home](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/home.jpg)        
 - [Intro login](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introLogin.jpg)
 - [First intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen1.jpg)       
