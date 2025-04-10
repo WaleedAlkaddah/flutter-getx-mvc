@@ -28,3 +28,7 @@ A cross-platform mobile application demonstrating state management approach with
 1. Clone the repository.
 2. Run `flutter pub get` to fetch dependencies.
 3. Run the app on your emulator or device.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/license) file for details.
