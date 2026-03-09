@@ -15,14 +15,14 @@ A cross-platform mobile application demonstrating state management approach with
 - GetX
 
 ## Screenshots:
-- [Home](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/home.jpg)        
-- [Intro login](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introLogin.jpg)
-- [First intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen1.jpg)    
-- [Second intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen2.jpg)
-- [Third intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen3.jpg)    
-- [Fourth intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen4.jpg)
-- [Login](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/login.jpg)
-- [OTP](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/otpView.jpg)
+- [Home](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshots/home.jpg)        
+- [Intro login](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshots/introLogin.jpg)
+- [First intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshots/introScreen1.jpg)    
+- [Second intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshots/introScreen2.jpg)
+- [Third intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshots/introScreen3.jpg)    
+- [Fourth intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshots/introScreen4.jpg)
+- [Login](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshots/login.jpg)
+- [OTP](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshots/otpView.jpg)
  
 ## Setup Instructions:
 1. Clone the repository.
